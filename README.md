@@ -1,8 +1,8 @@
 https://www.airbnb.fr/
 
-J'ai choisis le airbnb pour plusieurs raisons :
+I chose airbnb for several reasons:
 
-- Elements graphiques utilisés de manieres homogenes.
-- Boutons, couleurs, typographie réfléchies.
-- Accueil du site qui donne envie de continuer a naviguer et en découvrir un peu plus.
-- 
+- Graphic elements used in homogenous manieres.
+- Thoughtful buttons, colors and typography.
+- Home page that makes you want to keep browsing and discover more.
+
